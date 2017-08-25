@@ -1,0 +1,28 @@
+* {
+  display: inline-block;
+}
+head {
+  display: none;
+}
+body {
+  display: block;
+  margin: 0 auto;
+  background-color: rgba(15, 169, 129, 1);
+}
+div {
+  display: block;
+  margin: 0 auto;
+}
+.title{
+  display: block;
+  margin: 0 auto;
+}
+
+h1 {
+  display: block;
+  text-align: center;
+}
+
+.row {
+  display: block;
+}

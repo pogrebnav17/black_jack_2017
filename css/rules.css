@@ -1,0 +1,20 @@
+body {
+  display: block;
+  background-color: rgba(15, 169, 129, 1);
+}
+
+h1 {
+  text-decoration: underline;
+  color: black;
+  text-align: center;
+}
+h2{
+  font-size: .75em;
+  text-align: center;
+}
+p {
+  color: black;
+  display: block;
+  font-size: 1.5em;
+  text-align: center;
+}
