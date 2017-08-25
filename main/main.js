@@ -364,7 +364,7 @@ $(function(){
         dealerCard.append(dealerCardImg)
       }
       function backOfDealerCardImage(){
-        var backOfCard = $('<img id="hidden-DealerCard" src="/Users/vvt941/Documents/developer/week7/unit-1-project/blackjack/images/playing-card-back.jpg">')
+        var backOfCard = $('<img id="hidden-DealerCard" src="./images/playing-card-back.jpg">')
         dealerCard.append(backOfCard)
       }
       function dealerCardImgHidden(){
